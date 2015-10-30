@@ -8,7 +8,7 @@ I want to simplify these steps as possible. So I created this Assistant for AppS
 Assistant knows how to style your screenshots, automatically keeping style all screenshots. You need to make a real screenshot, think of text - and screenshots for AppStore are ready!
 
 ## Installation
-You need to use a Sketch for make screenshots. Sketch - a great editor and must be in your list of tools. It's the only thing you need for make screenshots.
+You need to use a [Sketch](https://www.sketchapp.com) for make screenshots. Sketch - a great editor and must be in your list of tools. It's the only thing you need for make screenshots.
 
 ![](/Img/installation.jpg)
 
