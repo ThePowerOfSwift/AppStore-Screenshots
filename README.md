@@ -44,6 +44,6 @@ Contact:
 
 ## Other Projects
 
-The ["Sparrow"](https://github.com/IvanVorobei/Sparrow) library for simplify iOS programming in Swift. Сode written by sticking paradigms Steve McConnell in his book "Сode Сomplete". Now added Game Center, In-App Purchase, AudioPlayer and other.
+The [Sparrow](https://github.com/IvanVorobei/Sparrow) library for simplify iOS programming in Swift. Сode written by sticking paradigms Steve McConnell in his book "Сode Сomplete". Now added Game Center, In-App Purchase, AudioPlayer and other.
 
 ![](/Img/sparrow.jpg)
