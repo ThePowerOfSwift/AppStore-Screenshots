@@ -31,6 +31,8 @@ You can customize your very thinly screenshots. Within the project there are sev
 
 Also you can add localization in screenshots. See second block with text on page "Prepare" 
 
+![](/Img/features.jpg)
+
 ## License and Contact
 Sparrow is released under the MIT license. See LICENSE.md for details.
 
